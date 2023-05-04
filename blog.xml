@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>test-quarto-preview</title>
+<link>https://github.com/pratikunterwegs/test-quarto-preview/blog.html</link>
+<atom:link href="https://github.com/pratikunterwegs/test-quarto-preview/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.4.30</generator>
+<lastBuildDate>Thu, 04 May 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>test1</title>
+  <dc:creator>test name</dc:creator>
+  <link>https://github.com/pratikunterwegs/test-quarto-preview/posts/testpost/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Test post. some added text.</p>
+
+
+
+ ]]></description>
+  <guid>https://github.com/pratikunterwegs/test-quarto-preview/posts/testpost/index.html</guid>
+  <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>test2</title>
+  <dc:creator>test name</dc:creator>
+  <link>https://github.com/pratikunterwegs/test-quarto-preview/posts/testpost2/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Test post.</p>
+
+
+
+ ]]></description>
+  <guid>https://github.com/pratikunterwegs/test-quarto-preview/posts/testpost2/index.html</guid>
+  <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

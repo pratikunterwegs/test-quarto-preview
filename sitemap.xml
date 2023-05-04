@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://github.com/pratikunterwegs/test-quarto-preview/posts/testpost/index.html</loc>
+    <lastmod>2023-05-04T10:03:49.608Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/pratikunterwegs/test-quarto-preview/posts/testpost2/index.html</loc>
+    <lastmod>2023-05-04T10:03:51.460Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/pratikunterwegs/test-quarto-preview/about.html</loc>
+    <lastmod>2023-05-04T10:03:51.828Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/pratikunterwegs/test-quarto-preview/index.html</loc>
+    <lastmod>2023-05-04T10:03:52.176Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/pratikunterwegs/test-quarto-preview/blog.html</loc>
+    <lastmod>2023-05-04T10:03:52.704Z</lastmod>
+  </url>
+</urlset>
